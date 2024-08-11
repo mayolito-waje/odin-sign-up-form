@@ -1,0 +1,6 @@
+@import url('../node_modules/normalize.css');
+
+@font-face {
+  font-family: "norse";
+  src: url(../fonts/Norse-Bold.otf) format('opentype');
+}
